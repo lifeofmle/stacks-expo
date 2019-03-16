@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 8881,
+  "expoServerNgrokUrl": "https://n3-hdq.lifeofmle.stacks-expo.exp.direct",
+  "packagerNgrokUrl": "https://packager.n3-hdq.lifeofmle.stacks-expo.exp.direct",
+  "ngrokPid": 8907,
+  "webpackServerPort": null
+}
